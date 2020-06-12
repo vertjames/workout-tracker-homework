@@ -35,3 +35,4 @@ module.exports = model("Workout", new Schema({
     }
   ]
 })
+)

@@ -9,5 +9,5 @@ app.use(express.json())
 app.use(require('./routes'))
 
 require("./seeders/seed.js")
-  .then(() => app.listen(3000))
+  .then(() => app.listen(process.env.MONGODB_URI || process.env.LOCAL_URI))
   .catch((err) => console.error(err))

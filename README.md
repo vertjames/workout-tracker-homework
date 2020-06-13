@@ -13,7 +13,7 @@
   
   <a name="installation"></a>
   ## Installation
-  To use the application locally, enter 'npm i' then 'node server.js' into the Terminal. Otherwise visit the url of the <a href='https://'>deployed app</a>.
+  To use the application locally, enter 'npm i' then 'node server.js' into the Terminal. Otherwise visit the url of the <a href='https://hidden-retreat-77798.herokuapp.com/'>deployed app</a>.
   
   <a name="usage"></a>
   ## Usage
